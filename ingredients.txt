@@ -1,2 +1,5 @@
 avocados
-lime
+peas
+jalapenos
+salt
+lime juice
